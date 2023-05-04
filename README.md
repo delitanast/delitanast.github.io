@@ -15,6 +15,8 @@
 
 [![featured project](https://github-readme-stats.vercel.app/api/pin/?username=delitanast&repo=pyowner&theme=nord)](https://github.com/delitanast/pyowner)
 
+[![featured project](https://github-readme-stats.vercel.app/api/pin/?username=qlauncher&repo=qlauncher&theme=nord)](https://github.com/qlauncher/qlauncher)
+
 ## Stats
 
 [![Delitanast's GitHub stats](https://github-readme-stats.vercel.app/api?username=delitanast&theme=nord&show_icons=true&count_private=true)](https://github.com/delitanast)
