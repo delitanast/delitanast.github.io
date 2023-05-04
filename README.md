@@ -13,6 +13,8 @@
 
 [![featured project](https://github-readme-stats.vercel.app/api/pin/?username=delitanast&repo=generator-passwords&theme=nord)](https://github.com/delitanast/generator-passwords)
 
+[![featured project](https://github-readme-stats.vercel.app/api/pin/?username=delitanast&repo=pyowner&theme=nord)](https://github.com/delitanast/pyowner)
+
 ## Stats
 
 [![Delitanast's GitHub stats](https://github-readme-stats.vercel.app/api?username=delitanast&theme=nord&show_icons=true&count_private=true)](https://github.com/delitanast)
