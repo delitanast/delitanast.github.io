@@ -9,11 +9,7 @@
 - 👶 Current name: Delitanast (_Delitanast_)
 
 # Projects
-[![featured project](https://github-readme-stats.vercel.app/api/pin/?username=delitanast&repo=calculator&theme=nord)](https://github.com/delitanast/calculator)
-
-[![featured project](https://github-readme-stats.vercel.app/api/pin/?username=delitanast&repo=generator-passwords&theme=nord)](https://github.com/delitanast/generator-passwords)
-
-[![featured project](https://github-readme-stats.vercel.app/api/pin/?username=delitanast&repo=pyowner&theme=nord)](https://github.com/delitanast/pyowner)
+[![featured project](https://github-readme-stats.vercel.app/api/pin/?username=jexclient&repo=jexclient.github.io&theme=nord)](https://github.com/jexclient/jexclient.github.io/)
 
 ## Stats
 
